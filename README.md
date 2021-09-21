@@ -1,6 +1,4 @@
------- Vision statement ------
-
-## Gemma
+## Vision Statement - Gemma
 
 Today, navigation is easier than ever before. Apps like Google and Apple Maps locate users, find destinations, and plot routes in a flash. They can even “drop pins” to save locations for later visits. But there’s one catch: all these places must be on (or near) the beaten path. GPS apps know streets and buildings just fine. When it comes to the outdoors, though—places to hike, kayak, picnic, or just sit and birdwatch—these concrete-focused apps come up empty.  
 
