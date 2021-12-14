@@ -18,12 +18,12 @@ That’s why we’re building Gemma. Gemma is a geolocator app designed for “t
 
 - [Final (Gemma 2.0)](https://github.com/Gemma-app/Gemma-project/blob/main/Presentations/CS262_Final.pdf)
 
-## Test Documents:
+### Test Documents:
 - [User Testing Script](https://github.com/Gemma-app/Gemma-project/blob/main/Testing/TestScript.md)
 
 - [User Testing Report](https://github.com/Gemma-app/Gemma-project/blob/main/Testing/UserTestingReport.pdf)
 
-## Codebases:
+### Codebases:
 - Gemma's [client repo](https://github.com/Gemma-app/Gemma-client)
 
 - Gemma's [service repo](https://github.com/Gemma-app/Gemma-service)
