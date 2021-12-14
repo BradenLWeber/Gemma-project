@@ -4,12 +4,29 @@ Today, navigation is easier than ever before. Apps like Google and Apple Maps lo
 
 That’s why we’re building Gemma. Gemma is a geolocator app designed for “trail territory”: natural spaces that aren’t marked by roads. Users can save their current location, or other coordinates, as “pins.” They can also tag or add notes to pins as they desire. Gemma saves collections of pins as "boards," allowing users to view others' public boards or their own private ones. With Gemma as a resource, young digital natives are empowered to join in outdoor adventures. Scenic walks, bike paths, unofficial skate parks... the possibilities are as endless as your exploring. Where will *you* go with Gemma? 
 
-### Our cunning plan (AKA important links):
+### Design Models:
 - [Domain model](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/Domain_Model.png)
 
 - [Deployment Diagram](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/Deployment_Diagram.png)
 
+- [Database Schema](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/Database_Schema.md)
+
 - [Original UI mockup](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/User_Interface_Model.png)
+
+### Presentations:
+- [Demo (Gemma 1.0)](https://github.com/Gemma-app/Gemma-project/blob/main/Presentations/CS262_Demo.pptx)
+
+- [Final (Gemma 2.0)](https://github.com/Gemma-app/Gemma-project/blob/main/Presentations/CS262_Final.pdf)
+
+## Test Documents:
+- [User Testing Script](https://github.com/Gemma-app/Gemma-project/blob/main/Testing/TestScript.md)
+
+- [User Testing Report](https://github.com/Gemma-app/Gemma-project/blob/main/Testing/UserTestingReport.pdf)
+
+## Codebases:
+- Gemma's [client repo](https://github.com/Gemma-app/Gemma-client)
+
+- Gemma's [service repo](https://github.com/Gemma-app/Gemma-service)
 
 ### Meet the team:
 
