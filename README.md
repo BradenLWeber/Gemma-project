@@ -5,9 +5,11 @@ Today, navigation is easier than ever before. Apps like Google and Apple Maps lo
 That’s why we’re building Gemma. Gemma is a geolocator app designed for “trail territory”: natural spaces that aren’t marked by roads. Users can save their current location, or other coordinates, as “pins.” They can also tag or add notes to pins as they desire. Gemma saves collections of pins as "boards," allowing users to view others' public boards or their own private ones. With Gemma as a resource, young digital natives are empowered to join in outdoor adventures. Scenic walks, bike paths, unofficial skate parks... the possibilities are as endless as your exploring. Where will *you* go with Gemma? 
 
 ### Our cunning plan (AKA important links):
-- [Domain model](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/Domain_Model.pdf)
+- [Domain model](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/Domain_Model.png)
 
-- [UI mockup](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/User_Interface_Model.png)
+- [Deployment Diagram](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/Deployment_Diagram.png)
+
+- [Original UI mockup](https://github.com/Gemma-app/Gemma-project/blob/main/DesignModels/User_Interface_Model.png)
 
 ### Meet the team:
 
